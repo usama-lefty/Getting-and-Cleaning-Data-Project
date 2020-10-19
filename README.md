@@ -1,12 +1,13 @@
 # Getting-and-Cleaning-Data-Project
-These are my project files for course 3 of data science specializaton
+These are my project files for course 3 of data science specializaton\
 
-Dataset used:
+Dataset used:\
 [UCI HAR](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 Files:
 **CodeBook.md** Describes the variables, the data, and any transformations or work that was performed to clean up the data\
-**run_analysis.R** R script that performs the following steps on data
+\
+**run_analysis.R** R script that performs the following steps on data\
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
